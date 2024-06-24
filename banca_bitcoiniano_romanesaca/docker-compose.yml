@@ -1,0 +1,10 @@
+version: "3"
+services:
+  server:
+    environment:
+        FLAG: HCamp{_m4573r_0f_UNISWAPv2_1n_4c710n_}
+    build: .
+    container_name: BBR
+    ports:
+      - "60000:8889"
+    restart: always
