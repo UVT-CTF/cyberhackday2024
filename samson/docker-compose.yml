@@ -1,0 +1,10 @@
+version: "3"
+services:
+  server:
+    environment:
+        FLAG: HCamp{_LLM_pr0mp7_1nj3c70000r_}
+    build: .
+    container_name: Samson
+    ports:
+      - "60001:8889"
+    restart: always
