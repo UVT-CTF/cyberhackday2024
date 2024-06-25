@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "65001:65001"
+    environment:
+      FLASK_APP: app.py
+      FLASK_RUN_HOST: 0.0.0.0
+      FLASK_RUN_PORT: 65001
+    command: ["/home/jwt/venv/bin/flask", "run"]

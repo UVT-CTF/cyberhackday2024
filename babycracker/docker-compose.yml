@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  server:
+    build: .
+    container_name: babycracker
+    ports:
+      - "65002:5000"
+    restart: always

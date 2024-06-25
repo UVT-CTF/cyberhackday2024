@@ -1,0 +1,8 @@
+version: "3"
+services:
+  server:
+    build: .
+    container_name: faulty-pass
+    ports:
+      - "9001:9001"
+    restart: always

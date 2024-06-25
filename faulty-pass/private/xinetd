@@ -1,0 +1,16 @@
+service rev1
+{
+    disable = no
+    type        = UNLISTED
+    wait        = no
+    server      = /bin/sh
+    server_args = -c python3${IFS}/home/rev1/service.py
+    socket_type = stream
+    protocol    = tcp
+    user        = rev1
+    port        = 9001
+    flags       = REUSE
+    per_source  = 10
+    rlimit_cpu  = 1
+    nice        = 18
+}

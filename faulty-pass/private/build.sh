@@ -1,0 +1,1 @@
+gcc main.c -o ../release/faulty-pass && strip ../release/faulty-pass

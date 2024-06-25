@@ -1,0 +1,12 @@
+[package]
+name = "Ransomware"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.7.5"
+block-modes = "0.8.1"
+rand = "0.8.5"
+dirs = "4.0.0"
+hex = "0.4.3"
+dialog = "0.3.0"
