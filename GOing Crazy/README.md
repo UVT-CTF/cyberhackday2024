@@ -1,13 +1,13 @@
 # GOing Crazy
 > author: Riki, category: rev
 ### Description
-And Samson said to them, “Let me now put a riddle to you. If you can tell me what it is, within the seven days of the feast, and find it out, then I will give you thirty linen garments and thirty changes of clothes, but if you cannot tell me what it is, then you shall give me thirty linen garments and thirty changes of clothes.” And they said to him, “Put your riddle, that we may hear it.” And he said to them, “Out of the eater came something to eat. Out of the strong came something sweet.”
+I think I am GOing crazy. I cannot find out what to do with this binary. Maybe you can find out.
 
 ### Hint
-- Hint1: The author of the challenge has published, recently, a paper on this topic.
+- Hint1: What cipher did Rivest create by himself?
 
 ### Flag
 <details>
   <summary>Click to reveal the flag</summary>
-  HCamp{_LLM_pr0mp7_1nj3c70000r_}
+  HCamp{G0_15_fun_n0t_g0nn4_l13}
 </details>
