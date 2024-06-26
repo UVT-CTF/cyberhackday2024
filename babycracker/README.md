@@ -4,6 +4,11 @@
 This program asks for some kind of password. Can you help me crack it?
 Connection Info: 85.120.206.114:65002
 
+### Server deploy command
+```
+sudo docker-compose up -d --build
+```
+
 ### Hints:
 - Hint 1: The binary might be packed using something.
 - Hint 2: Check strings

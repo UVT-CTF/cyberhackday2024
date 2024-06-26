@@ -7,6 +7,11 @@ Connection Info: 85.120.206.114:65001
 ### Hints:
 - Hint 1: You need to find a way to get the private key and generate an admin JWT Token
 
+### Server deploy command
+```
+sudo docker-compose up -d --build
+```
+
 ### Flag
 <details>
     <summary>Click to reveal flag</summary>
