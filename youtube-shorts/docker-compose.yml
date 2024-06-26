@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    volumes:
+      - ./data:/tmp
+    environment:
+      - PYTHONUNBUFFERED=1
+    networks:
+      - app-net
+
+networks:
+  app-net:
+    driver: bridge
