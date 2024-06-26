@@ -1,0 +1,6 @@
+####Name
+Basic_traffic
+###Description:
+Our analysts found out a web server was compromised, and that attackers managed to run commands remotely on our servers, can you find out what they executed?
+###Flag
+HCamp{W3b_Sh3ll_Tr4ffic_Un3ncrypt3d_Huhh}
