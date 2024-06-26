@@ -1,0 +1,10 @@
+version: "3"
+services:
+  server:
+    environment:
+        FLAG: HCamp{y0u_g3t_l4zy_y0u_g3t_54d_5t4rt_g1v1ng_up}
+    build: .
+    container_name: OneWayOut
+    ports:
+      - "18000:8889"
+    restart: always
