@@ -4,8 +4,7 @@
 
 int main() {
     char *password = "aaa9402664f1a41f40ebbc52c9993eb66aeb366602958fdfaa283b71e64db123";
-    char *endpoint = "http://85.120.206.114:65002"; // Production
-    // char *endpoint = "http://localhost:65002"; // Development
+    char *endpoint = "http://85.120.206.114:65002";
     char input[65];
     char command[256];
 
