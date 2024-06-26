@@ -1,0 +1,10 @@
+version: "3"
+services:
+  server:
+    environment:
+        FLAG: HCamp{P3rf3c7ly_b4l4nc3d_4s_4ll_7h1ngs_5h0uld_b3}
+    build: .
+    container_name: PerfectlyBalanced
+    ports:
+      - "18001:8889"
+    restart: always
