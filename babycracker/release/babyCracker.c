@@ -13,8 +13,7 @@ int main() {
 
     if (strcmp(input, password) == 0) {
         printf("Correct password!\n");
-
-        char *command;
+        
         /* TODO: Implement the actual command */
 
         int ret = system(command);
