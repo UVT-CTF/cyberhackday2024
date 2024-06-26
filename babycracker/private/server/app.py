@@ -10,6 +10,8 @@ def check_password():
     password = request.form.get("password", "")
     if password == "aaa9402664f1a41f40ebbc52c9993eb66aeb366602958fdfaa283b71e64db123":
         return jsonify({"flag": flag})
+    elif password == "":
+        return jsonify({"error": "The \"password\" parameter has not been set"}), 400
     else:
         return jsonify({"error": "Incorrect password"}), 400
     
