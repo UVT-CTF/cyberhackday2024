@@ -1,0 +1,1 @@
+pass the trailing whitespace through a whitespace cipher decrypter 

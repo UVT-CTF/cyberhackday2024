@@ -1,0 +1,1 @@
+Decrypting the cipher is a waste of time. Edit the binary to remove the sleep and then type any of the exiting strings. 
