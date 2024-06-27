@@ -6,5 +6,5 @@ services:
     build: .
     container_name: PerfectlyBalanced
     ports:
-      - "18001:8889"
+      - "30001:8889"
     restart: always

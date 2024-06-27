@@ -1,10 +1,10 @@
-service pb
+service perfectly_balance
 {
     disable = no
     type        = UNLISTED
     wait        = no
     server      = /bin/sh
-    server_args = -c cd${IFS}/home/solver/;exec${IFS}./run.sh
+    server_args = -c cd${IFS}/home/solver/;exec${IFS}./source.py
     socket_type = stream
     protocol    = tcp
     user        = solver
