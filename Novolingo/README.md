@@ -1,5 +1,5 @@
 # Novolingo
-> author: Tania; category: Crypto
+> author: Tania; category: crypto
 
 ### Description
 Our team intercepted messages between two military bases, but it seems that they are in a language that doesn't exist. Talk about security!
