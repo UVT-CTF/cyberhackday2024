@@ -1,0 +1,7 @@
+{
+	"values": [
+		"checker:load",
+		"checker:tick",
+		"checker:enable_check"
+	]
+}
