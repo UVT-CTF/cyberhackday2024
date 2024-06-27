@@ -1,0 +1,19 @@
+
+prék dvo-četr svolstaži kej ňie! - The receiver's troup nr.24 attacks west after this message.
+
+vozbogstažîdei maj - The sender was attacked in east prior to this message.
+
+prékži tri groňprátič bajk - The receiver is informed about 3 enemy troups advancing in north.
+
+trokprékži kej izvid - The receiver is informed about killed enemies in west flank.
+
+vozmačiréksvaž šest bîgovprék - The sender sends 6 backup troups after this message.
+
+svolbogstažisvaž ňie! - The receiver anticipates an enemy attack.
+
+vozkorbovîdei kej izvid - The sender retreated in west flank prior to this message.
+
+svolkatriše mojk ňie! - The receiver holds their position in the south.
+
+New communiations:
+prékži četr-tri groňbogtrokîdei. vozkorbov mojk. svolstaži bajk ňie!

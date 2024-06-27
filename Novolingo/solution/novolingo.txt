@@ -1,0 +1,123 @@
+
+troup 2-4 attack west! -   prék dvo-četr svolstaži kej ňie!    -   The receiver's troup nr.24 attacks west after this message.
+
+we were attacked east -    vozbogstažîdei maj   -    The sender was attacked in east prior to this message.
+
+three enemy troups advancing north   - prékži tri groňprátič bajk  - The receiver is informed about 3 enemy troups advancing in north.
+
+enemy casualties at west flank   - troprékži maj izvid  -  The receiver is informed about enemy casualties in west flank.
+
+we will send 6 troups  -    vozmačiréksvaž šest bîgovprék   -   The sender sends 6 backup troups after this message.
+
+you will be attacked! -   svolbogstažisvaž ňie!    -   The receiver anticipates an enemy attack.
+
+we retreated in west flank -    vozkorbovîdei kej izvid   -   The sender retreated in west flank prior to this message.
+
+hold position in the south! -  svolkatriše mojk ňie!  - The receiver holds their position in the south.
+
+prékži četr-tri groňbogtrokîdei. vozkorbov mojk. svolstaži bajk ňie!
+enemy troup 43 was killed. we retreat south. attack north!
+
+1. What happened to our troup nr.43? (1 word, past simple)
+killed
+2. Where can we expect an attack? (1 word, direction)
+north
+3. Who is retreating? (1 word, expressed as the above translations)
+sender
+
+HCamp{killed_north_sender}
+
+____________________________________________________GRAMMAR RULES____________________________________________________________
+
+verb roots: 
+
+move/go - prátič 
+
+stay - katriše 
+
+attack - staži 
+
+retreat - korbov 
+
+death – trok 
+
+help - bîgov 
+
+send - mačirék
+
+scout/look - poroj
+
+
+ 
+nouns:
+
+troup - prék 
+
+enemy - prékži 
+
+ally - prékoboe 
+
+flank - izvid
+
+East - maj 
+
+West - kej 
+
+North - bajk 
+
+South -  mojk 
+
+
+
+numerals:
+
+One: jed 
+
+Two: dvo 
+
+Three: tri 
+
+Four: četr 
+
+Five: pet 
+
+Six: šest 
+
+Seven: sedm 
+
+Eight: osam 
+
+Nine: devet 
+
+Ten: deset
+ 
+
+composed nouns:
+
+=> enemy casualties - troprékži 
+
+=> friend casualties - troprékoboe 
+
+=> backup (people to help) - bîgovprék 
+
+ 
+
+conjugations: 
+
+First person: voz - 
+
+Second person: svol - 
+
+Third person : groň - 
+ 
+
+Present: -
+
+Past: -îdei 
+
+Future: -svaž 
+
+Imperative: +  ňie 
+
+
+ 
