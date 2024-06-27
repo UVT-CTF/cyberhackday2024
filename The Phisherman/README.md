@@ -1,23 +1,27 @@
-# Hooking Laura
+# The Phisherman
 > author: AndraB, Tania; category: social
 
 ### Description
-We're conducting a security assessment in our IT company to gauge our employees vulnerability to phishing attempts. Your assignment is to draft an email to Laurajonson@buisness.com and initiate a conversation with her. Here’s a detailed profile of Laura to help you:
+We're conducting a security assessment in our IT company to determine our employees vulnerability to phishing attempts. Your assignment is to draft an email to laura.johnson.business@gmail.com and initiate a conversation with her. The goal is to obtain the mock password she has received recently, for "a shared account amongst the HR department", which she does not work in.
 
-Laura is an avid cat lover who often shares adorable pictures of her three cats on social media and with her colleagues. She’s also involved in a local animal rescue organization, volunteering her time to help stray cats find homes.
+Here’s a detailed profile of Ms. Johnson to help you:
 
-Laura is a devoted family person, often discussing weekend plans centered around family outings and gatherings. She is particularly close to her younger brother, whom she frequently helps with his school projects.
+Ms. Johnson  is currently working as a Python developer within a small team of 4, previously she had been working as a QA tester in our company for two years. She is 23 years old, unmarried, without children.
 
-Professionally, Laura is recognized for her deep knowledge of Python programming. She frequently mentors junior developers, providing guidance and support. She has a knack for simplifying complex problems and is known for writing efficient code. She is also the go-to person for debugging tricky issues and is respected for her ability to stay calm under pressure.
+Ms. Johnson is fond of her pets, often sharing pictures of her three cats on social media and with her colleagues. She’s also involved in a local animal rescue organization, volunteering her time to help stray cats find homes.
 
-Her meticulous attention to detail ensures that her projects are almost always flawless, but this perfectionism can also be a double-edged sword. Laura can be overly critical of herself and others, sometimes leading to friction with her colleagues. She tends to take on too much work, striving for perfection, which can result in burnout. Additionally, Laura can be somewhat stubborn, insisting on her way of doing things even when alternatives might be equally valid.
+Ms. Johnson is a devoted family person, particularly close to her younger brother, whom she frequently helps with his school projects.
 
-Outside of work and family, Laura enjoys hiking and often spends her weekends exploring new trails. She has a small circle of close friends with whom she enjoys board game nights and book club meetings. Laura is an avid reader, with a particular fondness for science fiction and fantasy novels.
+Professionally, Ms. Johnson is recognized for her deep knowledge of Python programming. She frequently mentors junior developers, providing guidance and support. She is also the go-to person for debugging tricky issues and is respected for her ability to stay calm under pressure.
 
-Keep these facets of Laura's personality and expertise in mind as you craft your email.
+Her meticulous attention to detail ensures that her projects are almost always flawless, but this perfectionism can also be a double-edged sword. Ms. Johnson can be overly critical of herself and others, sometimes leading to friction with her colleagues. She tends to take on too much work which can result in burnout. Additionally, Ms. Johnson can be somewhat stubborn, insisting on her way of doing things even when alternatives might be equally valid.
+
+Outside of work and family, Ms. Johnson enjoys hiking. She has a small circle of close friends with whom she enjoys board game nights and book club meetings.
+
+Keep these facets of Ms. Johnson's personality and expertise in mind as you craft your phishing email.
 
 ### Flag
 <details>
   <summary>Click to reveal the flag</summary>
-  HCamp{Sn4gg1ng_l4ur4_ph1sh1ng_7h3_c47_l0v1ng_py7h0n_c0d1ng_pr0}
+  HCamp{g00d_b41t_c4tch3s_th3_b1gg3st_ph1sh}
 </details>
