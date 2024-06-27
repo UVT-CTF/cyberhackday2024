@@ -1,7 +1,8 @@
 from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
+import os
 
-flag = b"HCamp{P3rf3c7ly_b4l4nc3d_4s_4ll_7h1ngs_5h0uld_b3}"
+flag = os.environ['FLAG'].encode()
 key = get_random_bytes(16)
 
 def padded(pt):
