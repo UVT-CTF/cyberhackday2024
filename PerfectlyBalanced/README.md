@@ -4,9 +4,6 @@
 ### Description
 Good luck!
 
-### Hint
-- Hint1: coming soon!
-
 ### Flag
 <details>
   <summary>Click to reveal the flag</summary>
