@@ -1,4 +1,4 @@
-# Samson
+# Perfectly Balanced
 > author: Mark, category: crypto
 
 ### Description
