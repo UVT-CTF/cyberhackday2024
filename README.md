@@ -1,0 +1,50 @@
+# Cyber Days CTF 2024
+- [https://ctf.cyberhack.day/](https://ctf.cyberhack.day/)
+- [https://cyberhack.day/](https://cyberhack.day)
+
+  # Challenges
+  - Web
+    - bad comparison
+    - baby web
+    - Joy With Tokens
+  - Cryptography
+    - Perfectly Balanced
+    - Duolingo's most wanted
+    - Novolingo
+    - Spacious
+  - Reverse Engineering
+    - erutcip egnartS
+    - GOing crazy
+    - aMAZEing
+    - Evil ScreenSaver
+    - Rusty
+    - Iron Will
+    - Ransomware
+  - Pwnable
+    - The math is not mathing
+    - Faulty Pass
+  - Misc
+    - Samson
+    - Minecraft
+    - Zero Knowledge Bug
+    - Banca Bitcoiniano-Românească (BBR)
+    - babyCracker
+  - Forensics
+    - baby forensics
+    - squared disco
+    - Radio Orchestra
+    - Catch of the Day
+    - Youtube Shorts
+  - Steganography
+    - Baby HypnoText Markup Language (HTML)
+    - Black And Yellow
+    - Black And Yellow 2
+    - Crushing on the Spectrum: All Star Edition
+  - Social Engineering
+    - The Phisherman
+  - OSINT
+    - Privacy Hell
+    - Baby Investigator
+  - Programming
+    - One Way Out
+    - AntMiner v1
