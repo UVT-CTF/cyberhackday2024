@@ -1,0 +1,6 @@
+﻿  Ransom!.c
+C:\Users\ANDREI\source\repos\Ransom!\Ransom!.c(29,19): warning C4013: 'lzw_compress' undefined; assuming extern returning int
+C:\Users\ANDREI\source\repos\Ransom!\Ransom!.c(31,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ANDREI\source\repos\Ransom!\Ransom!.c(97,47): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\ANDREI\source\repos\Ransom!\Ransom!.c(45,1): warning C4715: 'CompressData': not all control paths return a value
+  Ransom!.vcxproj -> C:\Users\ANDREI\source\repos\Ransom!\x64\Debug\Ransom!.exe
