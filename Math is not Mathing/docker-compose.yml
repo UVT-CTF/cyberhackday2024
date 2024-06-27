@@ -1,0 +1,10 @@
+version: "3"
+services:
+  server:
+    environment:
+        FLAG: HCamp{639331113332c4303a51d9ead8201d262654e446a9fa9a6cfbf2210f44b76373}
+    build: .
+    container_name: math_not_mathing
+    ports:
+      - "31337:8889"
+    restart: always
