@@ -1,4 +1,7 @@
 import random
+import os
+
+flag = os.environ['FLAG']
 
 def genSol(n):
     opposite = [1, 0, 3, 2]
@@ -191,5 +194,5 @@ if __name__ == '__main__':
 
         if resume != 1:
             print("Congratulation!")
-            print("HCamp{y0u_g3t_l4zy_y0u_g3t_54d_5t4rt_g1v1ng_up}")
+            print(flag)
             break
