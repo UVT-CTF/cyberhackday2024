@@ -1,0 +1,10 @@
+version: "3"
+services:
+  server:
+    environment:
+        FLAG: HCamp{509451f790b95a17dee73fc5a09581a852f4e7afd41afdc1ecf2bd927b2ab8da}
+    build: .
+    container_name: aMAZEing
+    ports:
+      - "31338:8889"
+    restart: always
