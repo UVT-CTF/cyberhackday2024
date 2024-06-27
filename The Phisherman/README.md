@@ -1,5 +1,5 @@
 # The Phisherman
-> author: AndraB, Tania; category: social
+> author: AndraB, Taniusca; category: social
 
 ### Description
 We're conducting a security assessment in our IT company to determine our employees vulnerability to phishing attempts. Your assignment is to draft an email to laura.johnson.business@gmail.com and initiate a conversation with her. The goal is to obtain the mock password she has received recently, for "a shared account amongst the HR department", which she does not work in.
