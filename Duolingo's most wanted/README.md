@@ -1,5 +1,5 @@
 # Duolingo's most wanted
-> author: Tania; category: crypto
+> author: Taniusca; category: crypto
 
 ### Description
 
