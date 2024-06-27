@@ -2,7 +2,7 @@
 > author: Mark, category: programming
 
 ### Description
-Find a way out!
+Find the way out!
 
 ### Flag
 <details>
