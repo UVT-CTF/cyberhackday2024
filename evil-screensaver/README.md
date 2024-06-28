@@ -6,8 +6,11 @@ There was a recent ransomware spreading around and we managed to get a sample of
 <h1 style="color: red">WARNING: DO NOT RUN THIS ON YOUR MACHINES. USE A VM. THIS CAN BREAK YOUR SYSTEM AND WE ARE NOT RESPONSIBLE FOR YOUR ACTIONS.</h1>
 
 ### Hints:
-- Hint 1: What is the initial file actually doing
-- Hint 2: (Final stage) The flag might be encoded some way. Try harder! :)
+<details>
+    <summary>Click to reveal hints</summary>
+    Hint 1: What is the initial file actually doing<br/>
+    Hint 2: (Final stage) The flag might be encoded some way. Try harder! :)
+</details>
 
 ### Flag
 <details>

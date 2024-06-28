@@ -9,10 +9,6 @@ Connection Info: 85.120.206.114:65002
 cd /home/ubuntu/cyberhackday2024/babycracker; sudo docker-compose up -d --build
 ```
 
-### Hints:
-- Hint 1: The binary might be packed using something.
-- Hint 2: Check strings
-
 ### Flag
 <details>
     <summary>Click to reveal flag</summary>
