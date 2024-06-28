@@ -5,6 +5,10 @@ app = Flask(__name__)
 
 flag = os.getenv("FLAG", "HCamp{9c44a1237cd5cd94bc293029b496da6181cc656aba93af5350a4fed7d211d8be}")
 
+@app.route("/", methods=["GET"])
+def handle_get():
+    return jsonify({"error": "This endpoint only supports POST requests"}), 405
+
 @app.route("/", methods=["POST"])
 def check_password():
     password = request.form.get("password", "")
