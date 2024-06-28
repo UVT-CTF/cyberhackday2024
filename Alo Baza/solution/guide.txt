@@ -1,0 +1,25 @@
+Aircraft: Dassault Rafale C
+Airline: France - Air Force
+Serial #: C106
+Yelahanka Air Force Station - VOYK
+India
+
+
+Step 1: Reverse search the picture. You should find it is from JetPhotos.
+https://www.jetphotos.com/photo/10723072
+See step_1.
+
+Step 2: See the aircraft's serial number (C106) in the description on JetPhotos.
+See step_2.
+
+Step 3: Filter the search to show aircrafts with the serial number C106 in the year 2011.
+See step_3.
+
+Step 4: See the aircraft's location on the 10th of February. There are several pictures of it in Yelahanka Air Force Station - VOYK, India in 9, 10 and 11 February 2011
+See step_4.
+
+Step 5: Search the web for the airport's AIP (Aeronautical Information Publication). Amongst the first results should be openaip:
+https://www.openaip.net/data/airports/62614ba2cb27f4250944cbbe?originUrl=%2Fdata%2Fairports%2F62614b935e9ded57104489b0
+
+Step 6: See the tower's radio frequency: 118.100
+See step_6.
