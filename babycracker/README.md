@@ -6,7 +6,7 @@ Connection Info: 85.120.206.114:65002
 
 ### Server deploy command
 ```
-sudo docker-compose up -d --build
+cd /home/ubuntu/cyberhackday2024/babycracker; sudo docker-compose up -d --build
 ```
 
 ### Hints:

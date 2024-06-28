@@ -9,7 +9,7 @@ Connection Info: 85.120.206.114:65001
 
 ### Server deploy command
 ```
-sudo docker-compose up -d --build
+cd /home/ubuntu/cyberhackday2024/joy-with-tokens; sudo docker-compose up -d --build
 ```
 
 ### Flag
