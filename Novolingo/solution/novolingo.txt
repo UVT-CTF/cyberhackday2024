@@ -5,7 +5,7 @@ we were attacked east -    vozbogstažîdei maj   -    The sender was attacked i
 
 three enemy troups advancing north   - prékži tri groňprátič bajk  - The receiver is informed about 3 enemy troups advancing in north.
 
-enemy casualties at west flank   - troprékži maj izvid  -  The receiver is informed about enemy casualties in west flank.
+enemy casualties at west flank   - trokprékži maj izvid  -  The receiver is informed about enemy casualties in west flank.
 
 we will send 6 troups  -    vozmačiréksvaž šest bîgovprék   -   The sender sends 6 backup troups after this message.
 
@@ -53,9 +53,9 @@ nouns:
 
 troup - prék 
 
-enemy - prékži 
+enemy troup - prékži 
 
-ally - prékoboe 
+ally troup - prékoboe 
 
 flank - izvid
 
@@ -94,9 +94,9 @@ Ten: deset
 
 composed nouns:
 
-=> enemy casualties - troprékži 
+=> enemy casualties - trokprékži 
 
-=> friend casualties - troprékoboe 
+=> friend casualties - trokprékoboe 
 
 => backup (people to help) - bîgovprék 
 
