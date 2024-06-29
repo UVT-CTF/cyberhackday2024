@@ -118,6 +118,8 @@ void read_flag() {
 }
 
 int main() {
+    setvbuf(stdin, NULL, _IONBF, 0);
+    setvbuf(stdout, NULL, _IONBF, 0);
     if (!check_name()) return 1;
     if (!check_password()) return 1;
     if (!check_favorite_food()) return 1;
