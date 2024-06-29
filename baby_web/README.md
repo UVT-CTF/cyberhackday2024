@@ -10,5 +10,6 @@ HCamp{Congr4ts_Y0u_M4st3r3d_PHP!!!???}
 
 Deploy
 ```
+cd "/home/ubuntu/cyberhackday2024/baby_web/private"
 docker build -t ctf-challenge . && docker run -p 6667:80 ctf-challenge
 ```
