@@ -64,7 +64,7 @@ func handleConnection(conn net.Conn) {
 		}
 	}
 
-	conn.Write([]byte("HCamp{B3tt3r_M1n3_Th1S_AnD_N0T_B1tC0iN}"))
+	conn.Write([]byte(fmt.Sprintf("HCamp{B3tt3r_M1n3_Th1S_HaSh_0x%x}", rand.Uint64())))
 }
 
 func main() {
