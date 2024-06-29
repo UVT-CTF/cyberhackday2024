@@ -17,7 +17,7 @@ def check_password():
     elif password == "":
         return jsonify({"error": "The \"password\" parameter has not been set"}), 400
     else:
-        return jsonify({"error": "Incorrect password"}), 400
+        return jsonify({"error": "Incorrect password! Try to use passwords from rockyou.txt!"}), 400
     
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
